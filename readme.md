@@ -4,3 +4,5 @@ result is in script/debug/visualization-train-valid-test.ipynb
 requirement:
   torch-0.4.1
   
+# visualization
+![avatar](./visualization.png)
